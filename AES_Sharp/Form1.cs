@@ -365,11 +365,11 @@ namespace AES_Sharp
 				byte[] bytes = new byte[Nk * 4];
 				for (ii = 0; ii < Nk * 4; ii++)
 				{
-					textBox3.Text += @out[ii]+" ";
 
 					bytes[ii] = @out[ii];
 					matrix[j, ii] = @out[ii];
 				}
+				textBox3.Text = BitConverter.ToString(bytes);
 				textBox4.Text = BitConverter.ToString(bytes);
 			}
 		}
