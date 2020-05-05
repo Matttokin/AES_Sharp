@@ -1,0 +1,10 @@
+F:\Users\MrTokin\source\repos\AES_Sharp\AES_Sharp\obj\Debug\AES_Sharp.csprojAssemblyReference.cache
+F:\Users\MrTokin\source\repos\AES_Sharp\AES_Sharp\obj\Debug\AES_Sharp.Properties.Resources.resources
+F:\Users\MrTokin\source\repos\AES_Sharp\AES_Sharp\obj\Debug\AES_Sharp.csproj.GenerateResource.cache
+F:\Users\MrTokin\source\repos\AES_Sharp\AES_Sharp\obj\Debug\AES_Sharp.csproj.CoreCompileInputs.cache
+F:\Users\MrTokin\source\repos\AES_Sharp\AES_Sharp\bin\Debug\AES_Sharp.exe.config
+F:\Users\MrTokin\source\repos\AES_Sharp\AES_Sharp\bin\Debug\AES_Sharp.exe
+F:\Users\MrTokin\source\repos\AES_Sharp\AES_Sharp\bin\Debug\AES_Sharp.pdb
+F:\Users\MrTokin\source\repos\AES_Sharp\AES_Sharp\obj\Debug\AES_Sharp.exe
+F:\Users\MrTokin\source\repos\AES_Sharp\AES_Sharp\obj\Debug\AES_Sharp.pdb
+F:\Users\MrTokin\source\repos\AES_Sharp\AES_Sharp\obj\Debug\AES_Sharp.Form1.resources
